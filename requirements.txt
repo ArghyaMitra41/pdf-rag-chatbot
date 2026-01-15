@@ -1,3 +1,7 @@
 langchain-community
 ollama
 faiss-cpu
+streamlit
+pypdf
+python-dotenv
+tiktoken
