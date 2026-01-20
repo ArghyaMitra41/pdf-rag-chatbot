@@ -23,7 +23,7 @@ Run the Streamlit app
 streamlit run app.py
 ```
 
-Upload [pdf-sample.pdf](pdf-sample.pdf)
+Upload [pdf-sample.pdf](data/uploads/pdf-sample.pdf)
 
 Ask questions like "What is the full form of PDF?"
 
