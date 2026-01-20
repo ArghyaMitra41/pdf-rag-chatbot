@@ -26,3 +26,13 @@ streamlit run app.py
 Upload [pdf-sample.pdf](pdf-sample.pdf)
 
 Ask questions like "What is the full form of PDF?"
+
+Delete LLM
+```
+ollama rm llama3
+```
+
+Clear pip cache
+```
+pip cache purge
+```
